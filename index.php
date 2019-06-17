@@ -18,6 +18,7 @@
     <meta name="salesforce-target" content="#sign-in-link">
     <meta name="salesforce-expid" content="coffee">
     <meta name="salesforce-save-access-token" content="true">
+	  <meta name="salesforce-mask-redirects" content="true">
     <meta name="salesforce-use-login-button-color" content="<?php echo getenv('SALESFORCE_USE_LOGIN_BUTTON_COLOR');?>">
     <meta name="salesforce-forgot-password-enabled" content="<?php echo getenv('SALESFORCE_FORGOT_PASSWORD_ENABLED');?>">
     <meta name="salesforce-self-register-enabled" content="<?php echo getenv('SALESFORCE_SELF_REGISTER_ENABLED');?>">
