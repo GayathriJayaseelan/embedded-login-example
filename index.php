@@ -25,7 +25,7 @@
     <script src="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>
   
 	<style>
-	.sfid-button{
+	.sfid-button .sfid-wide .sfid-mb16{
 		background-color: #000 !important;
 	}</style>
 </head>
