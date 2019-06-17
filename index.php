@@ -16,6 +16,7 @@
     <meta name="salesforce-mode" content="<?php echo getenv('SALESFORCE_MODE');?>">
     <meta name="salesforce-namespace" content="<?php echo getenv('SALESFORCE_NAMESPACE');?>">
     <meta name="salesforce-target" content="#sign-in-link">
+    <meta name="salesforce-expid" content="coffee">
     <meta name="salesforce-save-access-token" content="true">
     <meta name="salesforce-use-login-page-background-color" content="true">
     <meta name="salesforce-use-login-button-color" content="true">
