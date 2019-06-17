@@ -25,13 +25,10 @@
     <script src="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL');?>/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>
   
 	<style>
-		.sfid-button sfid-wide sfid-mb16{
-			
-			 background-color: #000 !important;
-		}
-		
-	  </style>
-	</head>
+	.sfid-button sfid-wide sfid-mb16{
+		background-color: #000 !important;
+	}</style>
+</head>
   
   <body>
   	<div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
